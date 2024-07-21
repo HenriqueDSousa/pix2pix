@@ -1,2 +1,4 @@
-/extracted_files/
+/notebook/images/images_dataset/
+/notebook/images/test_images/
+/notebook/images/train_images/
 .gitattributes
